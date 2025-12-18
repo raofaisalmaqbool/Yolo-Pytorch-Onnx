@@ -482,10 +482,4 @@ This project demonstrates:
 
 This is an assessment project for AI.SEE.
 
-## 👤 Author
-
-Created using Cursor AI Pro for the AI.SEE technical assessment.
-
----
-
 **Last Updated**: December 2024
